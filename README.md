@@ -1,5 +1,5 @@
 # BlogSPOT
-A Blog application developed using MERN stack technologies. This is a MERN stack based fully functioning blog system, which supports features of signing up, making authenticated requests, updating profile, changing password, publishing blog post etc..
+A Blog application developed using MERN stack technologies. This is a MERN stack based fully functioning blog system, which supports features of signing up, making authenticated requests, updating profile, changing password, publishing blog post etc.
 
 ## Technologies Used:
 
